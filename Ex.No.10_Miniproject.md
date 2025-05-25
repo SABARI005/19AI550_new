@@ -1,7 +1,7 @@
 # Ex.No: 10  Implementation of 2D/3D game 
 ### DATE: 25-05-2025
-### Name : Aakashraj M
-### REGISTER NUMBER : 212222100002
+### Name : SABARI S
+### REGISTER NUMBER : 212222240085
 ### Game Name : TargetBot- AI Shooter Arena
 ### AIM: 
 To develop a game TargetBot: AI Shooter Arena in Unity 
